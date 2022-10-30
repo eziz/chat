@@ -7,13 +7,13 @@ Build a chat app with Laravel, Vue.js and Pusher. Follow the tutorial [https://p
 Clone the project repository by running the command below if you use SSH
 
 ```bash
-git clone git@github.com:ammezie/laravel-chat.git
+git clone https://github.com/eziz/chat.git
 ```
 
 If you use https, use this instead
 
 ```bash
-git clone https://github.com/ammezie/laravel-chat.git
+git clone https://github.com/eziz/chat.git
 ```
 
 After cloning,run:
@@ -77,5 +77,5 @@ and visit [http://localhost:8000/](http://localhost:8000/) to see the applicatio
 
 * [Bootsnipp chat snippet](http://bootsnipp.com/snippets/featured/collapsible-chat-widget)
 
-
+## to delete old git
 rm -rf .git   
